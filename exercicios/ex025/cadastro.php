@@ -1,0 +1,3 @@
+Cadastro efetuado!
+
+Obrigado!
